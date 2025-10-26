@@ -1,7 +1,4 @@
 # Task-3
-Design an interactive dashboard for business stakeholders.
-
-Here’s a clear and professional **README** for your Sales Analysis Dashboard project based on your slides:
 
 ---
 
